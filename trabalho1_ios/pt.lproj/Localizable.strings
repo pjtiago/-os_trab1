@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  trabalho1_ios
+
+  Created by Joao Viana on 5/13/17.
+  Copyright © 2017 pjota.joaoviana. All rights reserved.
+*/
+VCTabela.delete = "Apagar Filme?";
+VCTabela.data_lost = "Todos os dados vao ser apagados.";
+VCTabela.cancel = "Cancelar";

@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Name of Movie"; ObjectID = "0vW-H2-gCV"; */
+"0vW-H2-gCV.text" = "Nome do Filme";
+
+/* Class = "UIButton"; normalTitle = "Button4"; ObjectID = "3lx-9z-jVD"; */
+"3lx-9z-jVD.normalTitle" = "Button4";
+
+/* Class = "UINavigationItem"; title = "Movie List"; ObjectID = "5gn-ue-src"; */
+"5gn-ue-src.title" = "Lista de Filmes";
+
+/* Class = "UIButton"; normalTitle = "Button2"; ObjectID = "N1v-qs-l7T"; */
+"N1v-qs-l7T.normalTitle" = "Button2";
+
+/* Class = "UIBarButtonItem"; title = "New"; ObjectID = "PXr-5E-4Ng"; */
+"PXr-5E-4Ng.title" = "Novo";
+
+/* Class = "UIButton"; normalTitle = "Button6"; ObjectID = "eui-Ih-RnW"; */
+"eui-Ih-RnW.normalTitle" = "Button6";
+
+/* Class = "UILabel"; text = "15/04/2017"; ObjectID = "hKm-Ok-31p"; */
+"hKm-Ok-31p.text" = "15/04/2017";
+
+/* Class = "UIButton"; normalTitle = "Button7"; ObjectID = "hw9-QC-qKe"; */
+"hw9-QC-qKe.normalTitle" = "Button7";
+
+/* Class = "UIButton"; normalTitle = "Button1"; ObjectID = "kRH-kx-ekK"; */
+"kRH-kx-ekK.normalTitle" = "Button1";
+
+/* Class = "UIButton"; normalTitle = "Button3"; ObjectID = "lbn-rg-RzU"; */
+"lbn-rg-RzU.normalTitle" = "Button3";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "pEz-aS-SWY"; */
+"pEz-aS-SWY.title" = "Guardar";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "sPe-AU-CSZ"; */
+"sPe-AU-CSZ.text" = "Género";
+
+/* Class = "UIButton"; normalTitle = "Button5"; ObjectID = "u6M-4w-GtT"; */
+"u6M-4w-GtT.normalTitle" = "Button5";
+
+/* Class = "UIButton"; normalTitle = "Button8"; ObjectID = "ukO-fh-xpI"; */
+"ukO-fh-xpI.normalTitle" = "Button8";
+
+/* Class = "UILabel"; text = "Joao Viana"; ObjectID = "vW3-al-CNG"; */
+"vW3-al-CNG.text" = "Joao Viana";
